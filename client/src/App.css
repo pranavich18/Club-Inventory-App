@@ -1,0 +1,38 @@
+body{
+  background-image: url("../src/background.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+form{
+  margin: 5% 10%;
+  padding: 2% 5%;
+}
+
+label{
+  padding: 1% 0 2%;
+}
+
+.dashboard-greeting{
+  padding: 2% 3%; 
+}
+
+.home{
+  text-align: center;
+  margin-top: 200px;
+}
+
+.form-group{
+  margin-right: 60%;
+  padding-top: 2%;
+}
+
+.form-button{
+  margin-top: 3%;
+}
+
+
+.member-dashboard{
+  padding: 4% 10%;
+  text-align: center;
+}
